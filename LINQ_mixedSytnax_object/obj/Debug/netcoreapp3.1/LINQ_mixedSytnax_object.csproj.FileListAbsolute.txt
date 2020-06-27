@@ -1,0 +1,13 @@
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\bin\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.exe
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\bin\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.deps.json
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\bin\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.runtimeconfig.json
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\bin\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.runtimeconfig.dev.json
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\bin\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.dll
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\bin\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.pdb
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\obj\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.csprojAssemblyReference.cache
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\obj\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.AssemblyInfoInputs.cache
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\obj\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.AssemblyInfo.cs
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\obj\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.csproj.CoreCompileInputs.cache
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\obj\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.dll
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\obj\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.pdb
+C:\Users\ulaga\source\repos\LINQ_mixedSytnax_object\obj\Debug\netcoreapp3.1\LINQ_mixedSytnax_object.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ulaga\source\repos\IQueryable\bin\Debug\netcoreapp3.1\IQueryable.exe
+C:\Users\ulaga\source\repos\IQueryable\bin\Debug\netcoreapp3.1\IQueryable.deps.json
+C:\Users\ulaga\source\repos\IQueryable\bin\Debug\netcoreapp3.1\IQueryable.runtimeconfig.json
+C:\Users\ulaga\source\repos\IQueryable\bin\Debug\netcoreapp3.1\IQueryable.runtimeconfig.dev.json
+C:\Users\ulaga\source\repos\IQueryable\bin\Debug\netcoreapp3.1\IQueryable.dll
+C:\Users\ulaga\source\repos\IQueryable\bin\Debug\netcoreapp3.1\IQueryable.pdb
+C:\Users\ulaga\source\repos\IQueryable\obj\Debug\netcoreapp3.1\IQueryable.csprojAssemblyReference.cache
+C:\Users\ulaga\source\repos\IQueryable\obj\Debug\netcoreapp3.1\IQueryable.AssemblyInfoInputs.cache
+C:\Users\ulaga\source\repos\IQueryable\obj\Debug\netcoreapp3.1\IQueryable.AssemblyInfo.cs
+C:\Users\ulaga\source\repos\IQueryable\obj\Debug\netcoreapp3.1\IQueryable.csproj.CoreCompileInputs.cache
+C:\Users\ulaga\source\repos\IQueryable\obj\Debug\netcoreapp3.1\IQueryable.dll
+C:\Users\ulaga\source\repos\IQueryable\obj\Debug\netcoreapp3.1\IQueryable.pdb
+C:\Users\ulaga\source\repos\IQueryable\obj\Debug\netcoreapp3.1\IQueryable.genruntimeconfig.cache
